@@ -23,4 +23,5 @@ rotini
 shells
 spaghetti
 tubettini
+vermicelli
 wheels
