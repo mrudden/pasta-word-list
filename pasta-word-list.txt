@@ -23,3 +23,103 @@ shells
 spaghetti
 tubettini
 wheels
+agnolotti
+anelli
+bucatini
+cannelloni
+capellini
+capunti
+casarecce
+casoncelli
+cencioni
+cappellacci
+cellentani
+cjarsons
+conchiglie
+corzetti
+creste di gallo
+croxetti
+ditali
+eliche
+emmer pasta
+fagottini
+fettuccelle
+fiori
+fusilli bucati
+garganelli
+gigli
+gnocchi
+gramigna
+lasagna verdi
+lumache rigate
+mafalde
+marziani
+mezze penne
+mezzelune
+mezzemaniche
+paccheri
+pappardelle
+passatelli
+pici
+quadrefiore
+radiatori
+ravioli
+ricciarelli
+ricotta and spinach tortellini
+rigatoncini
+riso
+sacchettoni
+scialatielli
+sfoglia
+sorrentine gnocchi
+spaghettoni
+strozzapreti
+tagliatelle alla boscaiola
+tagliatelle alla bolognese
+tagliatelle al tartufo
+tajarin
+tamburini
+testaroli
+tonarelli
+tortellini alla panna
+tortiglioni
+trenette
+triangoli
+trofie al pesto
+uova da raviolo
+vermicelli
+ziti lisci
+ziti rigati
+acqua e farina
+agretti
+barbina
+bigoli con l'anatra
+boccolotti
+borlenghi
+busiate
+calamarata
+cannelloni di crepes
+cappellini d'angelo
+capricci
+casciotta d'urbino tortelli
+cavatelli
+cencioni di ricotta
+cestini
+chiocciole
+cipolline
+coccioline
+columbine
+corallini
+corzetti al pesto
+crosetti
+curzetti
+elicoidali
+fagiolini
+fettuccine alfredo
+ficatuoi
+fregola sarda
+fusilloni
+gargati
+girelle
+gomiti
+grano arso
